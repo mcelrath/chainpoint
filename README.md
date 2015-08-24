@@ -27,6 +27,7 @@ in the absence of any other data.
 **tldr;** A federated server for building blockchain notarized Merkle trees, and returning the Merkle
 proof as a receipt.
 
+[Chainpoint White Paper](http://https://github.com/chainpoint/whitepaper/blob/master/chainpoint_white_paper.pdf)
 
 # Chainpoint Standard Receipt
 A standardized Chainpoint receipt format allows any system to verify a receipt by checking a Bitcoin transaction and
