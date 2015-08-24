@@ -19,7 +19,7 @@ Instead we can take that data and put it in a
 the Bitcoin blockchain. For any of the items in the Merkle tree, as long as we have the Merkle proof,
 we can prove that it is contained in that Merkle root notarized in the Bitcoin blockchain.
 
-Therefore we can notarize 10,000 documents for $0.03 instead of $300. It is
+Therefore we can notarize 10,000 documents for $0.03 instead of $300.  It is
 recommended that the party notarizing their document or data hold on to the Merkle proof "receipt."
 This allows that party to prove that their document has been notarized in a specific Bitcoin transaction
 in the absence of any other data.
@@ -27,7 +27,7 @@ in the absence of any other data.
 **tldr;** A federated server for building blockchain notarized Merkle trees, and returning the Merkle
 proof as a receipt.
 
-[Chainpoint White Paper](http://https://github.com/chainpoint/whitepaper/blob/master/chainpoint_white_paper.pdf)
+[Chainpoint White Paper](https://github.com/chainpoint/whitepaper/blob/master/chainpoint_white_paper.pdf)
 
 # Chainpoint Standard Receipt
 A standardized Chainpoint receipt format allows any system to verify a receipt by checking a Bitcoin transaction and
