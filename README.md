@@ -3,7 +3,6 @@
 [![Build Status](https://travis-ci.org/Storj/chainpoint.svg)](https://travis-ci.org/Storj/chainpoint?branch=master)
 [![Coverage Status](https://coveralls.io/repos/Storj/chainpoint/badge.svg?branch=master&service=github)](https://coveralls.io/github/Storj/chainpoint?branch=master)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/storj/dataserv/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/storj/chainpoint.svg)](https://github.com/storj/chainpoint/issues)
 
 # What is this?
 
@@ -28,6 +27,9 @@ in the absence of any other data.
 proof as a receipt.
 
 [Chainpoint White Paper](https://github.com/chainpoint/whitepaper/blob/master/chainpoint_white_paper.pdf)
+
+# Rules
+- Receipts must be independently verifiable.
 
 # Chainpoint Standard Receipt
 A standardized Chainpoint receipt format allows any system to verify a receipt by checking a Bitcoin transaction and
